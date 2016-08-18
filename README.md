@@ -23,6 +23,7 @@ It is not limited to automation, or web development, or network programming, as 
   - [Learn Python](http://www.learnpython.org/)
   - [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
   - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+  - [Python Tutorial](http://www.python-course.eu/)
 
 
 ## Documentations
